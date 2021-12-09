@@ -1,3 +1,5 @@
+#Author: Navya Dahiya
+
 FROM jupyter/base-notebook
 
 RUN mamba install --quiet --yes \
